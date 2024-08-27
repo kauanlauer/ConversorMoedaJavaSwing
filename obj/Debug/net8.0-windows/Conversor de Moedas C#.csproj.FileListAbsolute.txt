@@ -1,0 +1,17 @@
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\bin\Debug\net8.0-windows\Conversor de Moedas C#.exe
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\bin\Debug\net8.0-windows\Conversor de Moedas C#.deps.json
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\bin\Debug\net8.0-windows\Conversor de Moedas C#.runtimeconfig.json
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\bin\Debug\net8.0-windows\Conversor de Moedas C#.dll
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\bin\Debug\net8.0-windows\Conversor de Moedas C#.pdb
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor_de_Moedas_C_.Form1.resources
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor_de_Moedas_C_.Properties.Resources.resources
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor de Moedas C#.csproj.GenerateResource.cache
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor de Moedas C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor de Moedas C#.AssemblyInfoInputs.cache
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor de Moedas C#.AssemblyInfo.cs
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor de Moedas C#.csproj.CoreCompileInputs.cache
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor de Moedas C#.dll
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\refint\Conversor de Moedas C#.dll
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor de Moedas C#.pdb
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\Conversor de Moedas C#.genruntimeconfig.cache
+C:\Users\erick.lauer\source\repos\Conversor de Moedas C#\Conversor de Moedas C#\obj\Debug\net8.0-windows\ref\Conversor de Moedas C#.dll
